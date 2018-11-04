@@ -1,0 +1,21 @@
+
+<IQD>
+  <TYPE>Bug</TYPE>
+  <BLOCK>
+    <WHERE>
+		<PROPERTY>State</PROPERTY>
+        <OPERATOR>==</OPERATOR>
+        <VALUE>Not started</VALUE>
+	</WHERE>
+    <OR>
+        <PROPERTY>State</PROPERTY>
+        <OPERATOR>0</OPERATOR>
+        <VALUE />
+    </OR>
+	<AND>
+        <PROPERTY>Assigned to</PROPERTY>
+        <OPERATOR>0</OPERATOR>
+        <VALUE />
+    </AND>
+  </BLOCK>
+</IQD>
