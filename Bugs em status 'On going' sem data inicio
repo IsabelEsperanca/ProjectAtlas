@@ -2,12 +2,12 @@
   <TYPE>Bug</TYPE>
   <BLOCK>
     <WHERE>
-		<PROPERTY>State</PROPERTY>
+	<PROPERTY>State</PROPERTY>
         <OPERATOR>==</OPERATOR>
         <VALUE>On going</VALUE>
 	</WHERE>
     <and>
-        <PROPERTY>Start Date</PROPERTY>
+        <PROPERTY>Start date</PROPERTY>
         <OPERATOR>0</OPERATOR>
         <VALUE />
     </and>
