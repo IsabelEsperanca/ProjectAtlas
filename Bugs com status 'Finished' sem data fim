@@ -1,0 +1,15 @@
+<IQD>
+  <TYPE>Bug</TYPE>
+  <BLOCK>
+    <WHERE>
+		<PROPERTY>State</PROPERTY>
+        <OPERATOR>==</OPERATOR>
+        <VALUE>Finished</VALUE>
+	</WHERE>
+    <AND>
+        <PROPERTY>End Date</PROPERTY>
+        <OPERATOR>0</OPERATOR>
+        <VALUE />
+    </AND>
+  </BLOCK>
+</IQD>
